@@ -1,7 +1,4 @@
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 8913e5cf09b8378730ca1f02598713c61971d92b
 # Docker Learning Repository
 
 This repository documents my journey of learning Docker, from installation to running applications in containers. It includes various Dockerfiles, examples, and a step-by-step guide for getting started with Docker.
@@ -39,9 +36,6 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/your-username/docker-learning.git
 cd docker-learning
-<<<<<<< HEAD
-
-=======
 ```
 # Examples
 ## Dockerfiles
@@ -70,4 +64,3 @@ To run the Docker container and expose it on port 8888, use the following comman
 ```bash
 docker run -p 8888:8888 myapp
 ```
->>>>>>> 8913e5cf09b8378730ca1f02598713c61971d92b
